@@ -1,5 +1,5 @@
-# This ia Bulk_Action_run_script written in  Python which could be run to action on multiple machines
-=====================================================================================================
+This ia Bulk_Action_run_script written in  Python which could be run to action on multiple machines
+==================================================================================================
 ### Pre-requisite Information needed before Running the script:
 
 •	Authentication of User who have access on the Managed machines. 
